@@ -1,4 +1,3 @@
-[OCR Outputs.pdf](https://github.com/user-attachments/files/27303040/OCR.Outputs.pdf)
 # PDF Field Extractor with AI-Powered OCR
 
 A full-stack application that extracts fields from PDF documents using Google Gemini API, verifies the extracted data, and notifies owners of any mismatches.
